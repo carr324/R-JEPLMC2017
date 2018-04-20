@@ -1,0 +1,13 @@
+RT_mean,RT_sem,stim_type,Level
+867.45,53.59,Global Average,1
+895.43,53.76,Global Average,2
+1048.76,54.05,Global Average,3
+1004.74,53.88,Global Average,4
+836.06,45.77,Local Average,1
+854.71,45.8,Local Average,2
+920.35,45.88,Local Average,3
+869.95,45.6,Local Average,4
+974.01,45.5,Unshown Exemplar,1
+942.39,45.88,Unshown Exemplar,2
+943.16,45.82,Unshown Exemplar,3
+914.75,45.86,Unshown Exemplar,4

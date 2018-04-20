@@ -1,0 +1,13 @@
+classification_mean,classification_sem,stim_type,Level
+0.481,0.057,Global Average,1
+0.496,0.056,Global Average,2
+0.5,0.057,Global Average,3
+0.434,0.057,Global Average,4
+0.676,0.04,Local Average,1
+0.74,0.037,Local Average,2
+0.858,0.027,Local Average,3
+0.865,0.026,Local Average,4
+0.532,0.043,Unshown Exemplar,1
+0.663,0.041,Unshown Exemplar,2
+0.794,0.033,Unshown Exemplar,3
+0.86,0.027,Unshown Exemplar,4

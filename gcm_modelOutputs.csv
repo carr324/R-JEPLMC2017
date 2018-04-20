@@ -1,0 +1,13 @@
+gcm_prChoice,gcm_prTypical,stim_type,Level
+0.5,0.81,Global Average,1
+0.5,0.77,Global Average,2
+0.5,0.73,Global Average,3
+0.5,0.69,Global Average,4
+0.66,0.8,Local Average,1
+0.75,0.78,Local Average,2
+0.82,0.77,Local Average,3
+0.88,0.75,Local Average,4
+0.64,0.79,Unshown Exemplar,1
+0.74,0.76,Unshown Exemplar,2
+0.81,0.74,Unshown Exemplar,3
+0.87,0.73,Unshown Exemplar,4
