@@ -7,4 +7,4 @@ http://psycnet.apa.org/buy/2017-42061-001
 Access the full version of the paper here:
 https://evanwalkercarr.weebly.com/uploads/3/2/3/1/32319711/vogel_carr_davis___winkielman__2017__-_jeplmc.pdf  
 
-The uploaded files include examples for how we generated some of the figures, along with starter code for some of the GCM memory modeling.  For more details and/or final versions of the code, email carr324@gmail.com.
+The uploaded files include examples for how we generated some of the figures, along with starter code for some of the GCM memory modeling.  For more details and/or final versions of the code, email Evan Carr at carr324@gmail.com.
