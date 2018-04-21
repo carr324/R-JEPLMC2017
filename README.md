@@ -1,4 +1,4 @@
-# R-code-jeplmc2017
+# R-jeplmc2017
 R code for figures and simulations from Vogel, Carr, Davis, &amp; Winkielman (2017; JEPLMC paper):
 
 Here's some R code used for our 2017 paper published in Journal of Experimental Psychology: Learning, Memory, and Cognition, entitled "Category structure determines the relative attractiveness of global versus local averages":
