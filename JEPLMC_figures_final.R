@@ -2,8 +2,7 @@
 # Code for figures in final paper
 # Evan W. Carr, 05.20.2016
 
-require(dplyr)
-require(ggplot2)
+require(tidyverse)
 require(extrafont)
 
 exp1_data_liking <- read.csv("exp1_data_liking.csv")
