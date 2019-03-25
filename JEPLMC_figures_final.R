@@ -5,17 +5,17 @@
 require(tidyverse)
 require(extrafont)
 
-exp1_data_liking <- read.csv("exp1_data_liking.csv")
-exp1_data_classifications <- read.csv("exp1_data_classifications.csv")
-exp1_data_RTs <- read.csv("exp1_data_RTs.csv")
+exp1_data_liking <- read_csv("exp1_data_liking.csv")
+exp1_data_classifications <- read_csv("exp1_data_classifications.csv")
+exp1_data_RTs <- read_csv("exp1_data_RTs.csv")
 
-exp2_data_liking <- read.csv("exp2_data_liking.csv")
-exp2_data_classifications <- read.csv("exp2_data_classifications.csv")
-exp2_data_RTs <- read.csv("exp2_data_RTs.csv")
+exp2_data_liking <- read_csv("exp2_data_liking.csv")
+exp2_data_classifications <- read_csv("exp2_data_classifications.csv")
+exp2_data_RTs <- read_csv("exp2_data_RTs.csv")
 
-exp3_data_liking <- read.csv("exp3_data_liking.csv")
+exp3_data_liking <- read_csv("exp3_data_liking.csv")
 
-gcm_outputs <- read.csv("gcm_modelOutputs.csv")
+gcm_outputs <- read_csv("gcm_modelOutputs.csv")
 
 exp1_fig_liking <- ggplot(data = exp1_data_liking, 
                           aes(x = Level, y = liking_mean, color = stim_type, fill = stim_type)) +
